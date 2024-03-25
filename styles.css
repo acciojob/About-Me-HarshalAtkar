@@ -1,1 +1,26 @@
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Set font and background color */
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+/* Profile page layout */
+.profile-page {
+    /* Your styling here */
+}
+
+/* Customize other elements as needed */
+/* .content__cover, .content__avatar, .content__actions, etc. */
+
+/* Theme-specific styles */
+.theme-orange .content__cover {
+    /* Orange theme background */
+}
